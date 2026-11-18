@@ -1,0 +1,16 @@
+*{
+    color: crimson;
+    background-color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    font-family: cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+}
+
+p {
+    font-weight: 400;
+}
